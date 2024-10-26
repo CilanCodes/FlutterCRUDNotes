@@ -38,6 +38,13 @@ Here are some screenshots of the application:
 
 ---
 
+## 🙏 Special Thanks
+
+- **Flutter Local Database Using SQFLite**  
+  [YouTube Tutorial](https://www.youtube.com/watch?v=q8UXj-44dk8)
+
+---
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

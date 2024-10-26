@@ -56,8 +56,9 @@ class NoteScreen extends StatelessWidget {
                     focusColor: Colors.black87,
                     filled: true,
                     fillColor: Color.fromARGB(255, 245, 245, 245),
-                    hintText: 'Title',
-                    labelText: 'Note title',
+                    hintText: 'Ideas',
+                    hintStyle: TextStyle(color: Colors.black26),
+                    labelText: 'Title',
                     labelStyle: TextStyle(
                       color: Colors.black87,
                     ),
@@ -73,8 +74,9 @@ class NoteScreen extends StatelessWidget {
                 focusColor: Colors.black87,
                 filled: true,
                 fillColor: Color.fromARGB(255, 245, 245, 245),
-                hintText: 'Title',
-                labelText: 'Note title',
+                hintText: '- Log my ideas here\n- Check it out',
+                hintStyle: TextStyle(color: Colors.black26),
+                labelText: 'Description',
                 labelStyle: TextStyle(
                   color: Colors.black87,
                 ),
